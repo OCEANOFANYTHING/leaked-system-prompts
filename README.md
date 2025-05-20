@@ -1,6 +1,6 @@
 # leaked-system-prompts
 
-## [Read The Full Detailed Article on This Repository](https://scriptxeno.github.io/posts/leaked-llm-system-prompts/)
+## <a href="https://scriptxeno.github.io/posts/leaked-llm-system-prompts/">Read The Full Detailed Article on This Repository</a>
 
 ## Description
 
