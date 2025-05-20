@@ -1,5 +1,7 @@
 # leaked-system-prompts
 
+## [Read The Full Detailed Article on This Repository](https://scriptxeno.github.io/posts/leaked-llm-system-prompts/)
+
 ## Description
 
 This repository is a collection of leaked system prompts from widely used LLM based services.
